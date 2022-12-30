@@ -11,7 +11,7 @@ Cache Scrubber is a simple WordPress plugin that allows you to clear various typ
 To clear the cache, go to the "Cache Clear" page in your WordPress dashboard. From there, you can use the buttons to clear the page cache or the object cache.
 
 ## Support
-If you have any issues or questions regarding the Cache Scrubber plugin, please contact the plugin author at the email address provided in the plugin header.
+If you have any issues or questions regarding the Cache Scrubber plugin, please create new issue here, at the Github repo (make sure to check the exisings if there is any!).
 
 ## License
-Cache Scrubber is licensed under the GPL2 license. Please see the license file for more information.
+Cache Scrubber is licensed under the GPL2 license.
